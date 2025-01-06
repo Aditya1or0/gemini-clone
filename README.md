@@ -16,7 +16,6 @@ A React-based clone of Google's Gemini AI interface, built with modern web techn
 - **Frontend Framework:** React.js
 - **Styling:** Tailwind CSS
 - **API Integration:** Google Gemini API
-- **Code Highlighting:** Prism.js
 - **Markdown Support:** React-Markdown
 - **Build Tool:** Vite
 
